@@ -1,4 +1,3 @@
-//
 public class Fibonacci {
 
     public static long fibonacciIterative(int n) {
